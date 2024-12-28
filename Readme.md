@@ -2,6 +2,9 @@
 
 A simple application to check for spam emails from a Gmail inbox using Python, IMAP, and a machine learning model for spam classification. The application continuously monitors the inbox, fetches emails, and classifies them as either spam or ham (non-spam). If an email is classified as spam, it is moved to the Spam folder, and the subject is logged.
 
+![Image 1](image1.png)
+![Image 2](image2.png)
+
 ## Features
 
 - Connects to Gmail using IMAP to fetch unread emails.
